@@ -1,0 +1,14 @@
+[Desktop Entry]
+Name=IntelliJ IDEA
+GenericName=IDEA
+Comment=IntelliJ IDEA IDE
+Exec=/home/jcorbett/Apps/IntelliJ\\ IDEA/launch.sh
+Terminal=false
+Type=Application
+StartupNotify=true
+MimeType=text/plain;
+Icon=/home/jcorbett/Apps/IntelliJ IDEA/current/bin/idea.png
+Categories=GNOME;GTK;Utility;Development;Java;Python;
+X-GNOME-FullName=IntelliJ IDEA
+Comment[en_US]=IntelliJ IDEA
+GenericName[en_US]=Intellij IDEA
