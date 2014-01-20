@@ -13,3 +13,5 @@ if 'VIRTUAL_ENV' in os.environ:
 EOF
 
 set number
+
+" au FileType xhtml,xml so ~/.vim/scripts/html_autoclosetag.vim
