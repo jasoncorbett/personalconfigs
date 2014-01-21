@@ -24,6 +24,14 @@ if $COLORTERM == 'gnome-terminal'
     set t_Co=256
 endif
 
-colorscheme distinguished
+" better python syntax highlighting
+let python_highlight_all = 1
+
+" colorscheme oceanblack
+" colorscheme distinguished
+colorscheme grb256
+
+" colorscheme gothic
+" colorscheme desert256
 
 " au FileType xhtml,xml so ~/.vim/scripts/html_autoclosetag.vim
