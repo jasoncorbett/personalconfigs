@@ -24,6 +24,10 @@ if $COLORTERM == 'gnome-terminal'
     set t_Co=256
 endif
 
+if $TERM == 'screen256'
+    set t_Co=256
+endif
+
 " better python syntax highlighting
 let python_highlight_all = 1
 
