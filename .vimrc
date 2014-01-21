@@ -33,7 +33,9 @@ let python_highlight_all = 1
 
 " colorscheme oceanblack
 " colorscheme distinguished
-colorscheme grb256
+" colorscheme grb256
+colorscheme hemisu
+set background=dark
 
 " colorscheme gothic
 " colorscheme desert256
