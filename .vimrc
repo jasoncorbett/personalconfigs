@@ -24,7 +24,7 @@ if $COLORTERM == 'gnome-terminal'
     set t_Co=256
 endif
 
-if $TERM == 'screen256'
+if $TERM == 'screen-256color'
     set t_Co=256
 endif
 
