@@ -13,5 +13,9 @@ if 'VIRTUAL_ENV' in os.environ:
 EOF
 
 set number
+set tabstop=4
+set shiftwidth=4
+set expandtab
+
 
 " au FileType xhtml,xml so ~/.vim/scripts/html_autoclosetag.vim
