@@ -16,4 +16,8 @@ set number
 let g:CommandTCancelMap=['<C-c>']
 let g:CommandTBackspaceMap=['<C-h>','<BS>']
 let g:CommandTCursorLeftMap=['<Left>']
+set tabstop=4
+set shiftwidth=4
+set expandtab
+
 " au FileType xhtml,xml so ~/.vim/scripts/html_autoclosetag.vim
