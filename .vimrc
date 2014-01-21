@@ -20,4 +20,10 @@ set tabstop=4
 set shiftwidth=4
 set expandtab
 
+if $COLORTERM == 'gnome-terminal'
+    set t_Co=256
+endif
+
+colorscheme distinguished
+
 " au FileType xhtml,xml so ~/.vim/scripts/html_autoclosetag.vim
