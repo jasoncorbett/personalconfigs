@@ -13,5 +13,7 @@ if 'VIRTUAL_ENV' in os.environ:
 EOF
 
 set number
-
+let g:CommandTCancelMap=['<C-c>']
+let g:CommandTBackspaceMap=['<C-h>','<BS>']
+let g:CommandTCursorLeftMap=['<Left>']
 " au FileType xhtml,xml so ~/.vim/scripts/html_autoclosetag.vim
