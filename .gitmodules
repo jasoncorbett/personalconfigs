@@ -35,3 +35,6 @@
 [submodule ".vim/bundle/color-scheme-hemisu"]
 	path = .vim/bundle/color-scheme-hemisu
 	url = https://github.com/noahfrederick/vim-hemisu.git
+[submodule ".vim/bundle/vim-less"]
+	path = .vim/bundle/vim-less
+	url = https://github.com/groenewege/vim-less.git
